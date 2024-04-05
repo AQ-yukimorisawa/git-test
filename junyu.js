@@ -3,3 +3,4 @@ function hello(){
     console.log("what is your name?");
 }
 
+hello()
